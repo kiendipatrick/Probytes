@@ -1,0 +1,85 @@
+
+	.contentHolder
+	{
+		width: 100%; 
+	}
+
+	#postHolder, .header
+	{ 
+		margin: auto; 
+		width: 60%;
+	}
+
+	h2
+	{
+		margin-left:143px; 
+	}
+
+	.postTitle
+	{
+		color:#0078D7; 
+		text-transform:uppercase; 
+		font-weight:bold; 
+		font-size:0.7em;   
+	}
+
+	.formHolder
+	{ 
+		margin: auto; width: 50%;
+	}
+
+	input[type='text']
+	{
+		padding: 0.6em;
+		background-color:#FBDC6D; 
+		border:none; 
+		width:80%;
+
+	}
+
+	textarea
+	{	
+		color: #000000;
+		padding: 0.6em; 
+		background-color:#c7c7c7; 
+		border:none; 
+		width:80%; 
+		height:150px ;   
+	}
+	
+	input[type='submit']
+	{
+		padding: 0.6em; 
+		background-color:#0078D7; 
+		border:none; 
+		color: #ffffff;  
+	}
+
+	input, textarea
+	{
+		border-radius:5px;
+	}
+
+	.inputTitle
+	{
+		color:#000000; 
+		font-size:1.3em; 
+	}
+
+	.inputSubmit
+	{
+		float:right; 
+		margin-right:19%; 
+	}
+
+	.nofound
+	{
+		color:red; 
+		float:right;    
+	}
+.postBorder
+{
+	border: 1px solid #0078D7;
+	
+	
+}
